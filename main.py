@@ -24,7 +24,7 @@ while True:
     suggestions = []
     words = []
 
-    # Increment to increase tolerance and decrease relevancy
+    # Increment to decrease relevancy
     distance_max = 1
 
     # Retrieve words from txt file
